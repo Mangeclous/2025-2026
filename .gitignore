@@ -4,3 +4,4 @@ compiled/
 *.css
 *.ipynb
 .DS_Store
+.ipynb_checkpoints/
