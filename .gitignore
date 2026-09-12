@@ -2,3 +2,5 @@ compiled/
 *~
 *.html
 *.css
+*.ipynb
+.DS_Store
