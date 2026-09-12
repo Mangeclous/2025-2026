@@ -5,3 +5,5 @@ compiled/
 *.ipynb
 .DS_Store/
 .ipynb_checkpoints/
+courant.ipynb
+reserve.ipynb
